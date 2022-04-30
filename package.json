@@ -1,0 +1,19 @@
+{
+  "name": "outpost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-ods/Outpost.git"
+  },
+  "author": "christian bearden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chris-ods/Outpost/issues"
+  },
+  "homepage": "https://github.com/chris-ods/Outpost#readme"
+}
